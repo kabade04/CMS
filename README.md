@@ -1,4 +1,8 @@
 # CMS
 Collage management system
-<p>my self sanjana kabade
-It is software engineering class</p>
+<br>
+my self sanjana kabade
+<br>
+It is software engineering class
+<br>
+
